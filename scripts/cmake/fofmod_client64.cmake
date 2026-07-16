@@ -38,6 +38,7 @@ add_library(fofmod_client64 SHARED
     fmod/src/fofmodchannel.cpp
     fmod/src/fofmodchannelAS.cpp
     fmod/src/refcount.cpp
+    fmod/src/fofmodid.cpp
 )
 
 target_include_directories(fofmod_client64 PRIVATE
