@@ -3404,6 +3404,21 @@ void TestAllDicts( Critter& cr, int, int, int )
     Log("--- END DEMO ---");
 }
 
-
+//~run test TestAllDicts 0 0 0
+void GetParam( Critter& cl, int crid, int, int param )
+{
+	Critter@ cr = cl;
+	if (crid != 0)
+	{
+		@cr = GetCritter(crid);
+	}
+	if (cr is null)
+	{
+		cl.Say( SAY_NETMSG, "Critter not found." );
+		return;
+	}
+	cl.Say( SAY_NETMSG, "cr.ParamBase["+param+"] = "+cr.ParamBase[param] );
+	cl.Say( SAY_NETMSG, "cr.Param["+param+"] = "+cr.Param[param] );
+}
 
 #endif // TEST_MODULE
