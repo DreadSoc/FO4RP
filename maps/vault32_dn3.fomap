@@ -2,8 +2,8 @@
 Version              4
 MaxHexX              400
 MaxHexY              400
-WorkHexX             130
-WorkHexY             181
+WorkHexX             174
+WorkHexY             162
 ScriptModule         -
 ScriptFunc           -
 NoLogOut             0
@@ -5363,11 +5363,11 @@ tile       132  144            art\tiles\cav4009.frm
 tile       134  144            art\tiles\cav4009.frm
 tile       136  144            art\tiles\cav4009.frm
 tile       138  144            art\tiles\rst1003.frm
-tile       140  144            art\tiles\rst1003.frm
+tile       140  144            art\tiles\grass01.frm
 tile       142  144            art\tiles\grass01.frm
 tile       144  144            art\tiles\grass01.frm
 tile       146  144            art\tiles\grass01.frm
-tile       148  144            art\tiles\rst1003.frm
+tile       148  144            art\tiles\grass01.frm
 tile       150  144            art\tiles\rst1003.frm
 tile       152  144            art\tiles\cav4011.frm
 tile       154  144            art\tiles\cav4010.frm
@@ -5528,11 +5528,11 @@ tile       132  146            art\tiles\cav4009.frm
 tile       134  146            art\tiles\cav4010.frm
 tile       136  146            art\tiles\cav4009.frm
 tile       138  146            art\tiles\rst1001.frm
-tile       140  146            art\tiles\rst1002.frm
+tile       140  146            art\tiles\grass01.frm
 tile       142  146            art\tiles\grass01.frm
 tile       144  146            art\tiles\grass01.frm
 tile       146  146            art\tiles\grass01.frm
-tile       148  146            art\tiles\rst1002.frm
+tile       148  146            art\tiles\grass01.frm
 tile       150  146            art\tiles\rst1001.frm
 tile       152  146            art\tiles\rst1001.frm
 tile       154  146            art\tiles\rst1000.frm
@@ -5698,11 +5698,11 @@ tile       132  148            art\tiles\cav4009.frm
 tile       134  148            art\tiles\cav4010.frm
 tile       136  148            art\tiles\cav4009.frm
 tile       138  148            art\tiles\rst1003.frm
-tile       140  148            art\tiles\rst1002.frm
-tile       142  148            art\tiles\rst1003.frm
-tile       144  148            art\tiles\rst1002.frm
-tile       146  148            art\tiles\rst1003.frm
-tile       148  148            art\tiles\rst1002.frm
+tile_l     140  148          1 art\tiles\gar2000.frm
+tile_l     142  148          1 art\tiles\gar2000.frm
+tile_l     144  148          1 art\tiles\gar2000.frm
+tile_l     146  148          1 art\tiles\gar2000.frm
+tile       148  148            art\tiles\grass01.frm
 tile       150  148            art\tiles\rst1003.frm
 tile       152  148            art\tiles\rst1003.frm
 tile       154  148            art\tiles\rst1002.frm
@@ -5863,11 +5863,11 @@ tile       132  150            art\tiles\cav4009.frm
 tile       134  150            art\tiles\cav4009.frm
 tile       136  150            art\tiles\cav4009.frm
 tile       138  150            art\tiles\rst1001.frm
-tile       140  150            art\tiles\rst1000.frm
-tile       142  150            art\tiles\rst1001.frm
-tile       144  150            art\tiles\rst1000.frm
-tile       146  150            art\tiles\rst1001.frm
-tile       148  150            art\tiles\rst1000.frm
+tile_l     140  150          1 art\tiles\gar2001.frm
+tile_l     142  150          1 art\tiles\gar2002.frm
+tile_l     144  150          1 art\tiles\gar2001.frm
+tile_l     146  150          1 art\tiles\gar2001.frm
+tile       148  150            art\tiles\grass01.frm
 tile       150  150            art\tiles\rst1001.frm
 tile       152  150            art\tiles\rst1001.frm
 tile       154  150            art\tiles\rst1003.frm
@@ -6029,11 +6029,11 @@ tile       132  152            art\tiles\cav4009.frm
 tile       134  152            art\tiles\cav4010.frm
 tile       136  152            art\tiles\cav4009.frm
 tile       138  152            art\tiles\rst1003.frm
-tile       140  152            art\tiles\rst1002.frm
-tile       142  152            art\tiles\grass01.frm
-tile       144  152            art\tiles\grass01.frm
-tile       146  152            art\tiles\grass01.frm
-tile       148  152            art\tiles\rst1002.frm
+tile_l     140  152          1 art\tiles\gar2002.frm
+tile_l     142  152          1 art\tiles\gar2002.frm
+tile_l     144  152          1 art\tiles\gar2002.frm
+tile_l     146  152          1 art\tiles\gar2002.frm
+tile       148  152            art\tiles\grass01.frm
 tile       150  152            art\tiles\rst1003.frm
 tile       152  152            art\tiles\rst1001.frm
 tile       154  152            art\tiles\rst1003.frm
@@ -6194,11 +6194,11 @@ tile       132  154            art\tiles\cav4009.frm
 tile       134  154            art\tiles\cav4009.frm
 tile       136  154            art\tiles\cav4009.frm
 tile       138  154            art\tiles\rst1001.frm
-tile       140  154            art\tiles\rst1000.frm
-tile       142  154            art\tiles\grass01.frm
-tile       144  154            art\tiles\grass01.frm
-tile       146  154            art\tiles\grass01.frm
-tile       148  154            art\tiles\rst1000.frm
+tile_l     140  154          1 art\tiles\gar2004.frm
+tile_l     142  154          1 art\tiles\gar2004.frm
+tile_l     144  154          1 art\tiles\gar2004.frm
+tile_l     146  154          1 art\tiles\gar2004.frm
+tile       148  154            art\tiles\grass01.frm
 tile       150  154            art\tiles\rst1001.frm
 tile       152  154            art\tiles\rst1001.frm
 tile       154  154            art\tiles\rst1003.frm
@@ -6359,11 +6359,11 @@ tile       132  156            art\tiles\cav4009.frm
 tile       134  156            art\tiles\cav4010.frm
 tile       136  156            art\tiles\cav4009.frm
 tile       138  156            art\tiles\rst1003.frm
-tile       140  156            art\tiles\rst1002.frm
-tile       142  156            art\tiles\rst1003.frm
-tile       144  156            art\tiles\rst1002.frm
-tile       146  156            art\tiles\rst1003.frm
-tile       148  156            art\tiles\rst1002.frm
+tile       140  156            art\tiles\grass01.frm
+tile       142  156            art\tiles\grass01.frm
+tile       144  156            art\tiles\grass01.frm
+tile       146  156            art\tiles\grass01.frm
+tile       148  156            art\tiles\grass01.frm
 tile       150  156            art\tiles\rst1003.frm
 tile       152  156            art\tiles\rst1001.frm
 tile       154  156            art\tiles\rst1003.frm
@@ -6524,11 +6524,11 @@ tile       132  158            art\tiles\rst1001.frm
 tile       134  158            art\tiles\rst1000.frm
 tile       136  158            art\tiles\rst1001.frm
 tile       138  158            art\tiles\rst1001.frm
-tile       140  158            art\tiles\rst1000.frm
+tile       140  158            art\tiles\grass01.frm
 tile       142  158            art\tiles\grass01.frm
 tile       144  158            art\tiles\grass01.frm
 tile       146  158            art\tiles\grass01.frm
-tile       148  158            art\tiles\rst1000.frm
+tile       148  158            art\tiles\grass01.frm
 tile       150  158            art\tiles\rst1001.frm
 tile       152  158            art\tiles\rst1001.frm
 tile       154  158            art\tiles\rst1003.frm
@@ -6689,11 +6689,11 @@ tile       132  160            art\tiles\rst1003.frm
 tile       134  160            art\tiles\rst1002.frm
 tile       136  160            art\tiles\rst1003.frm
 tile       138  160            art\tiles\rst1003.frm
-tile       140  160            art\tiles\rst1002.frm
+tile       140  160            art\tiles\grass01.frm
 tile       142  160            art\tiles\grass01.frm
 tile       144  160            art\tiles\grass01.frm
 tile       146  160            art\tiles\grass01.frm
-tile       148  160            art\tiles\rst1002.frm
+tile       148  160            art\tiles\grass01.frm
 tile       150  160            art\tiles\rst1003.frm
 tile       152  160            art\tiles\rst1001.frm
 tile       154  160            art\tiles\rst1003.frm
@@ -44989,26 +44989,6 @@ MapY                 147
 MapObjType           1
 ProtoId              3842
 MapX                 143
-MapY                 153
-
-MapObjType           1
-ProtoId              3842
-MapX                 143
-MapY                 155
-
-MapObjType           1
-ProtoId              3842
-MapX                 147
-MapY                 155
-
-MapObjType           1
-ProtoId              3842
-MapX                 147
-MapY                 153
-
-MapObjType           1
-ProtoId              3842
-MapX                 143
 MapY                 159
 
 MapObjType           1
@@ -45020,11 +45000,6 @@ MapObjType           1
 ProtoId              3842
 MapX                 147
 MapY                 161
-
-MapObjType           1
-ProtoId              3842
-MapX                 147
-MapY                 159
 
 MapObjType           2
 ProtoId              5034
@@ -57411,13 +57386,6 @@ MapObjType           2
 ProtoId              2141
 MapX                 145
 MapY                 159
-LightDistance        8
-LightIntensity       50
-
-MapObjType           2
-ProtoId              2141
-MapX                 145
-MapY                 152
 LightDistance        8
 LightIntensity       50
 
