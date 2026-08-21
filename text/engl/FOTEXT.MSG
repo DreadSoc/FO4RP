@@ -44,9 +44,9 @@
 {817}{}{Silent}
 {818}{}{Armorbane}
 {819}{}{Flashlight}
-{820}{}{}
-{821}{}{}
-{822}{}{}
+{820}{}{Rate of fire x2}
+{821}{}{Rate of fire x3}
+{822}{}{Requires windup}
 {823}{}{}
 {824}{}{}
 {825}{}{}
@@ -1688,17 +1688,13 @@ The pot is filled for |0xFFFF00 @lex current@ |0x3CF800 out of |0xFFFF00 @lex ma
 {26101}{}{0 - Ground Floor}
 {26102}{}{1 - First Floor}
 
-
-
-
 {26200}{}{PID_BLUE_PASS_KEY}
 {26201}{}{-1}
 {26202}{}{-2}
 
-{26301} {} {0- Ground Floor}
-{26302} {} {1-First  Floor}
-{26303} {} {2-Second floor }
-
+{26301}{}{0-Ground Floor}
+{26302}{}{1-First  Floor}
+{26303}{}{2-Second floor }
 
 # =========================
 # Translation feature:
@@ -2649,6 +2645,7 @@ Local mod: |0xFFFF00 @lex yearMod@|0x3CF800 }
 {101195}{}{Deaggro Map}
 {101196}{}{Mob Spawner}
 {101197}{}{FORMATION}
+{101198}{}{Plant Spawner}
 
 # GM menu NPC groups
 # Mobs
