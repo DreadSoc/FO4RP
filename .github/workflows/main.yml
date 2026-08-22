@@ -1,0 +1,27 @@
+name: CI Pull Request Amalgama Checker
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  run-amalgama-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+
+      - name: Pull Amalgama Docker image
+        run: |
+          # Replace with your public image (e.g., docker.io/username/my-checker:latest or ghcr.io/username/my-checker:latest)
+          docker pull ghcr.io/cudo-rubigo/amalgama:forp-release
+
+      - name: Run Amalgama in startup check mode
+        run: |
+          docker run --rm \
+            -u "$UID:$GID" \
+            -v ${{ github.workspace }}:/opt/server:rw \
+            -e AMALGAMA_ARGS="--check" \
+            --name amalgama-checker \
+            ghcr.io/cudo-rubigo/amalgama:forp-release
