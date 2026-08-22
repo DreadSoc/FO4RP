@@ -668,6 +668,14 @@
 #define MAP_v35_prometei_dn 		( 9292 )
 #define MAP_v35_prometei_dn2 		( 9293 )
 
+//Maps Vault 32
+#define MAP_vault32_surface         ( 9294 )
+#define MAP_vault32_dn1             ( 9295 )
+#define MAP_vault32_dn2             ( 9296 )
+#define MAP_vault32_dn3             ( 9297 )
+#define MAP_vault32_dn4             ( 9298 )
+
+
 //Event Maps
 #define MAP_event2_slavers_in		( 102 )
 

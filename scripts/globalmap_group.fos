@@ -3336,14 +3336,20 @@ int GetMapLevelByPid( uint pid )
 		case( MAP_V35_los_nomados_up2 ):
             level = 2;
             break;
-        default:	
-			level = 0;
+    // Vault32
+        case( MAP_vault32_surface ):
+		case( MAP_vault32_dn1 ):
+		case( MAP_vault32_dn2 ):
+		case( MAP_vault32_dn3 ):
+		case( MAP_vault32_dn4 ):
+		default:
+			 level = 0;
 			break;
 
+   
+
     }
-
-    return level;
-
+     return level;
 }
 
 bool LocIsCity( uint locPid )
