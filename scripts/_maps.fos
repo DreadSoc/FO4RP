@@ -669,11 +669,11 @@
 #define MAP_v35_prometei_dn2 		( 9293 )
 
 //Maps Vault 32
-#define MAP_vault32_surface         ( 9294 )
-#define MAP_vault32_dn1             ( 9295 )
-#define MAP_vault32_dn2             ( 9296 )
-#define MAP_vault32_dn3             ( 9297 )
-#define MAP_vault32_dn4             ( 9298 )
+#define MAP_vault32_surface         ( 9301 )
+#define MAP_vault32_dn1             ( 9302 )
+#define MAP_vault32_dn2             ( 9303 )
+#define MAP_vault32_dn3             ( 9304 )
+#define MAP_vault32_dn4             ( 9305 )
 
 
 //Event Maps
