@@ -3,6 +3,13 @@ name: CI Pull Request Amalgama Checker
 on:
   pull_request:
     types: [opened, synchronize, reopened]
+    paths:
+      - 'data/**'
+      - 'dialogs/**'
+      - 'maps/**'
+      - 'proto/**'
+      - 'scripts/**'
+      - 'text/**'
 
 jobs:
   run-amalgama-check:
