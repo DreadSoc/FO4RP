@@ -1694,7 +1694,7 @@ The pot is filled for |0xFFFF00 @lex current@ |0x3CF800 out of |0xFFFF00 @lex ma
 
 {26301}{}{0-Ground Floor}
 {26302}{}{1-First  Floor}
-{26303}{}{2-Second floor }
+{26303}{}{2-Second Floor}
 
 # =========================
 # Translation feature:
