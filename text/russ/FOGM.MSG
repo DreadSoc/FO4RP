@@ -2949,8 +2949,38 @@
 {92940}{}{v35_prometei_dn2}
 {92945}{}{12junktn.ogg}
 {92946}{}{animal1:20, animal:20, dogbark2:5, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5}
-{92948}{}{Прометей. Бункер.}
+{92948}{}{Prometei. Bunker.}
 
+# Area 930, Map 9301
+{92950}{}{vault32_surface}
+{92955}{}{06vault.ogg}
+{92956}{}{bangpip1:5, bangpipe:5, clang:5, clang1:5, clank:5, clank1:5, coolant:5, fixstill:5, jupiter:5, mechpum1:5, mechpum:5, neptune:5, steam:5, steam1:5, water:5, water1:5}
+{92958}{}{Vault}
+
+# Area 930, Map 9302
+{92960}{}{vault32_dn1}
+{92965}{}{06vault.ogg}
+{92966}{}{bangpip1:5, bangpipe:5, clang:5, clang1:5, clank:5, clank1:5, coolant:5, fixstill:5, jupiter:5, mechpum1:5, mechpum:5, neptune:5, steam:5, steam1:5, water:5, water1:5}
+{92968}{}{Vault}
+
+# Area 930, Map 9303
+{92970}{}{vault32_dn2}
+{92975}{}{06vault.ogg}
+{92976}{}{bangpip1:5, bangpipe:5, clang:5, clang1:5, clank:5, clank1:5, coolant:5, fixstill:5, jupiter:5, mechpum1:5, mechpum:5, neptune:5, steam:5, steam1:5, water:5, water1:5}
+{92978}{}{Vault}
+
+# Area 930, Map 9304
+{92980}{}{vault32_dn3}
+{92985}{}{06vault.ogg}
+{92986}{}{bangpip1:5, bangpipe:5, clang:5, clang1:5, clank:5, clank1:5, coolant:5, fixstill:5, jupiter:5, mechpum1:5, mechpum:5, neptune:5, steam:5, steam1:5, water:5, water1:5}
+{92988}{}{Vault}
+
+
+# Area 930, Map 9305
+{92990}{}{vault32_dn4}
+{92995}{}{FNNM_FS_09_Ghosts.ogg}
+{92996}{}{animal1:20, animal:20, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5, water:5, water1:5}
+{92998}{}{Vault}
 #
 # Global map
 #
