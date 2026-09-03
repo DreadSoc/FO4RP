@@ -1692,6 +1692,9 @@ The pot is filled for |0xFFFF00 @lex current@ |0x3CF800 out of |0xFFFF00 @lex ma
 {26201}{}{-1}
 {26202}{}{-2}
 
+{26301} {} {1-First Floor}
+{26302} {} {2-Second  Floor}
+{26303} {} {3-Third floor}
 {26301}{}{1 - First Floor}
 {26302}{}{2 - Second Floor}
 {26303}{}{3 - Third Floor}
