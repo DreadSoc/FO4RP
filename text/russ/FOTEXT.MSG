@@ -1693,6 +1693,9 @@
 {26301} {} {1-First Floor}
 {26302} {} {2-Second  Floor}
 {26303} {} {3-Third floor}
+{26301}{}{1 - First Floor}
+{26302}{}{2 - Second Floor}
+{26303}{}{3 - Third Floor}
 
 # =========================
 # Translation feature:
