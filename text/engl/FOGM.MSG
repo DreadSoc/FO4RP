@@ -2952,35 +2952,35 @@
 {92948}{}{Prometei. Bunker.}
 
 # Area 930, Map 9301
-{93010}{}{vault32_surface}
-{93015}{}{06vault.ogg}
-{93016}{}{bangpip1:5, bangpipe:5, clang:5, clang1:5, clank:5, clank1:5, coolant:5, fixstill:5, jupiter:5, mechpum1:5, mechpum:5, neptune:5, steam:5, steam1:5, water:5, water1:5}
-{93018}{}{Vault}
-
-# Area 930, Map 9302
-{93020}{}{vault32_dn1}
+{93020}{}{vault32_surface}
 {93025}{}{06vault.ogg}
 {93026}{}{bangpip1:5, bangpipe:5, clang:5, clang1:5, clank:5, clank1:5, coolant:5, fixstill:5, jupiter:5, mechpum1:5, mechpum:5, neptune:5, steam:5, steam1:5, water:5, water1:5}
-{93028}{}{Vault 32. 1 floor}
+{93028}{}{Vault}
 
-# Area 930, Map 9303
-{93030}{}{vault32_dn2}
+# Area 930, Map 9302
+{93030}{}{vault32_dn1}
 {93035}{}{06vault.ogg}
 {93036}{}{bangpip1:5, bangpipe:5, clang:5, clang1:5, clank:5, clank1:5, coolant:5, fixstill:5, jupiter:5, mechpum1:5, mechpum:5, neptune:5, steam:5, steam1:5, water:5, water1:5}
-{93038}{}{Vault 32. 2 floor}
+{93038}{}{Vault 32. 1 floor}
 
-# Area 930, Map 9304
-{93040}{}{vault32_dn3}
+# Area 930, Map 9303
+{93040}{}{vault32_dn2}
 {93045}{}{06vault.ogg}
 {93046}{}{bangpip1:5, bangpipe:5, clang:5, clang1:5, clank:5, clank1:5, coolant:5, fixstill:5, jupiter:5, mechpum1:5, mechpum:5, neptune:5, steam:5, steam1:5, water:5, water1:5}
-{93048}{}{Vault 32. 3 floor}
+{93048}{}{Vault 32. 2 floor}
+
+# Area 930, Map 9304
+{93050}{}{vault32_dn3}
+{93055}{}{06vault.ogg}
+{93056}{}{bangpip1:5, bangpipe:5, clang:5, clang1:5, clank:5, clank1:5, coolant:5, fixstill:5, jupiter:5, mechpum1:5, mechpum:5, neptune:5, steam:5, steam1:5, water:5, water1:5}
+{93058}{}{Vault 32. 3 floor}
 
 
 # Area 930, Map 9305
-{93050}{}{vault32_dn4}
-{93055}{}{NNM_FS_09_Ghosts.ogg}
-{93056}{}{animal1:20, animal:20, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5, water:5, water1:5}
-{93058}{}{Vault_cavern}
+{93060}{}{vault32_dn4}
+{93065}{}{NNM_FS_09_Ghosts.ogg}
+{93066}{}{animal1:20, animal:20, gntlwin1:5, gntlwind:5, pebble:5, pebble1:10, vulture:5, vulture1:5, water:5, water1:5}
+{93068}{}{Vault_cavern}
 #
 #
 # Global map
