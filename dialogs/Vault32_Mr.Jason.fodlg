@@ -1,0 +1,89 @@
+[comment]
+
+
+[data]
+lang=engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 D _var p work = 0 #
+11 1020 D _var p work } 1 @
+2 2000 None 0 #
+3 2010 R _var p work = 1 #
+65506 2020 R _var p work = 1 #
+65507 2030 @
+3 3000 None 1 #
+5 3010 D _param p SK_REPAIR } 120 D _script DTO@b_uLESSm 2 2 2 #
+6 3020 D _param p SK_CRAFT } 120 #
+0 3030 @
+5 4000 None 1 #
+13 4010 #
+9 4020 D _var p forp_vendor_rojer_boss = 0 D _param p REPUTATION_GECKO = 2 D _script DTO@b_uLESSm 2 2 2 R _item p PID_BOTTLE_CAPS + 400 R _param p ST_EXPERIENCE + 500 R _param p REPUTATION_GECKO = 0 R _script DTO@r_uSETm 2 2 1200 @
+6 5000 None 0 #
+8 5010 @
+8 6000 None 1 #
+12 6010 D _item p PID_GRANDM1 } 1 R _item p PID_GRANDM1 - 1 R _param p ST_EXPERIENCE + 200 R _item p PID_PREWAR_DOLLAR_100 + 4 #
+12 6020 D _item p PID_VARMINT } 1 R _item p PID_VARMINT - 1 R _param p ST_EXPERIENCE + 200 R _item p PID_PREWAR_DOLLAR_100 + 3 #
+12 6030 D _item p PID_POLICE_LASER } 1 R _param p ST_EXPERIENCE + 200 R _item p PID_POLICE_LASER - 1 R _item p PID_PREWAR_DOLLAR_100 + 5 #
+12 6040 D _item p PID_44_MAGNUM_REVOLVER } 1 R _item p PID_44_MAGNUM_REVOLVER - 1 R _param p ST_EXPERIENCE + 200 R _item p PID_PREWAR_DOLLAR_100 + 4 #
+12 6050 D _item p PID_12g_BUCKSHOT } 100 R _param p ST_EXPERIENCE + 200 R _item p PID_12g_BUCKSHOT - 100 R _item p PID_PREWAR_DOLLAR_100 + 6 #
+12 6060 D _item p PID_SMALL_ENERGY_CELL } 20 R _item p PID_SMALL_ENERGY_CELL - 20 R _param p ST_EXPERIENCE + 200 R _item p PID_PREWAR_DOLLAR_100 + 2 #
+12 6070 D _item p PID_762MM_FMJ } 20 R _param p ST_EXPERIENCE + 200 R _item p PID_762MM_AP - 20 R _item p PID_PREWAR_DOLLAR_100 + 1 R _item p PID_PREWAR_DOLLAR_20 + 4 #
+11 6080 @
+9 7000 None 0 #
+11 7010 @
+11 8000 None 0 #
+5 8010 D _param p SK_REPAIR } 120 D _script DTO@b_uLESSm 2 2 2 #
+6 8020 D _param p SK_CRAFT } 120 @
+12 9000 None 1 #
+11 9010 #
+0 9020 @
+13 10000 None 0 &
+
+[engl]
+{100}{}{Fred Swanson}
+{200}{}{Fred Swanson}
+{210}{}{Fred Swanson smokes a cigarette and wears a leather duster}
+{1000}{}{Predialogue installations}
+{1010}{}{PC 1st Meeting}
+{1020}{}{PC 2nd Meeting}
+{2000}{}{[A man in his blue jumpsuit is working on his pipboy scanning reports and packaging up the screws along with other materials] Hi there. I'm Dr.Jones. What can I do for you?}
+{2010}{}{I need work.}
+{2020}{}{I need whiskey.}
+{2030}{}{Trouble. [Attack]}
+{3000}{}{[Chuckles] Straight to business? Alright. What're you good at?}
+{3010}{}{Repair.}
+{3020}{}{Craft.}
+{3030}{}{Nothing. [Leave]}
+{4000}{}{We've got a generator upstairs on the living quaters floor. Its been acting up like crazy. Please go ahead and work on it patching it up. }
+{4010}{}{I will fix it.}
+{4020}{}{I fixed generator... For now.}
+{5000}{}{Crafting, huh? Well, we're always hurting for guns,ammo, and pretty much everything under the kitchen sink at this point. Howard is always hurting for ammo over all for the pest control. }
+{5010}{}{Tell me what I can make for you}
+{6000}{}{This is what we need:
+M1 Garand: 400$ (Sell)
+Police laser pistol: 600$ (Sell)
+Homemade Laser Rifle: 500$ (Sell)
+0.44 Magnum Revolver: 300$ (Sell)
+12G buckshot slugs: 300$ (Sell)
+20x SECs: 200$ (Sell)
+20x 7.62 AP: 180$ (Sell)}
+{6010}{}{Sell M1 Garand.}
+{6020}{}{Sell Caravanner Carbine.}
+{6030}{}{Sell Police laser pistol}
+{6040}{}{Sell 0.44 Magnum Revolver.}
+{6050}{}{12g Buckshot}
+{6060}{}{Sell SECs.}
+{6070}{}{Sell 7.62 AP.}
+{6080}{}{I wanna talk about something else.}
+{7000}{}{Yeah, lights stopped flashing. Well done. @@ Good job, here's your reward @@ I hope it doesn't break down on us again. }
+{7010}{}{Happy to help.}
+{8000}{}{[Sighs]What do you need?}
+{8010}{}{About repairing generator.}
+{8020}{}{About crafting  things.}
+{9000}{}{[Whistles] That's a nice gun @@ Thanks for this, here's your pay @@ We'd need more of that.}
+{9010}{}{Thanks.}
+{9020}{}{Thanks. [Leave]}
+{10000}{}{Alright, go have a look. *points upstairs*}
+
