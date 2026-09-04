@@ -1,0 +1,53 @@
+[comment]
+
+
+[data]
+lang=russ engl
+
+[dialog]
+&
+1 1000 None 1 #
+2 1010 D _var p name_mem_player_npc = 0 @
+2 2000 None 1 #
+2 2010 D _item p PID_FIRE_GECKO_PELT > 0 R _item p PID_BOTTLE_CAPS + 60 R _item p PID_FIRE_GECKO_PELT - 1 R _item n PID_FIRE_GECKO_PELT + 1 R _item n PID_BOTTLE_CAPS - 60 R _param p ST_EXPERIENCE + 200 #
+2 2020 D _item p PID_MOUSE_SKIN > 0 R _item p PID_BOTTLE_CAPS + 2 R _item p PID_MOUSE_SKIN - 1 R _item n PID_MOUSE_SKIN + 1 R _item n PID_BOTTLE_CAPS - 2 R _param p ST_EXPERIENCE + 5 #
+2 2030 D _item p PID_LEATHER > 9 R _item p PID_BOTTLE_CAPS + 50 R _item p PID_LEATHER - 10 R _item n PID_LEATHER + 10 R _item n PID_BOTTLE_CAPS - 50 R _param p ST_EXPERIENCE + 100 #
+2 2040 D _item p PID_MANTIS_SHELL > 4 R _item p PID_MANTIS_SHELL - 5 R _item n PID_MANTIS_SHELL + 5 R _item p PID_BOTTLE_CAPS + 25 R _item n PID_BOTTLE_CAPS - 25 R _param p ST_EXPERIENCE + 100 #
+2 2050 D _item p PID_SCORPION_TAIL > 0 R _item p PID_BOTTLE_CAPS + 16 R _item p PID_SCORPION_TAIL - 1 R _item n PID_SCORPION_TAIL + 1 R _item n PID_BOTTLE_CAPS - 16 R _param p ST_EXPERIENCE + 20 #
+2 2060 D _item p PID_SCORPION_SMALL_TAIL > 0 R _item p PID_BOTTLE_CAPS + 8 R _item p PID_SCORPION_SMALL_TAIL - 1 R _item n PID_SCORPION_SMALL_TAIL + 1 R _item n PID_BOTTLE_CAPS - 8 R _param p ST_EXPERIENCE + 15 #
+0 2070 @
+3 3000 None 0 #
+0 3010 &
+
+[russ]
+{100}{}{Загадочный скупщик шкур}
+{200}{}{Загадочный скупщик шкур.}
+{210}{}{Загадочного вида траппер. Один глаз закрыт повязкой. Кажется вы его уже видели где-то, или нет...}
+{1000}{}{I?aaaeaeiaiaua onoaiiaee}
+{1010}{}{Aia?aua ano?aoeeny ni neoiueeii}
+{2000}{}{[He sighed, and in a clearly bored tone, told you the prices.] I will take the skin of an cave gecko for 60 dollars,, a rat pelt - 5 dollars. If there is leather, I can buy it in bulk of 10 pieces for 115 coins. I also buy chitin, 5 dollars for 5 shells, scorpian tails - 100 dollars. So what do you have? }
+{2010}{}{I got the skin of a cave gecko}
+{2020}{}{I have a rat skin. It stinks like hell, so you better take it. }
+{2030}{}{Here are 10 pieces of leather as ordered.}
+{2040}{}{Here are five chitin shells.}
+{2050}{}{Here is the scorpion's tail.}
+{2060}{}{Here is the tail of a small scorpion.}
+{2070}{}{Iiiyoii, iia ii?a, nianeai. [Oeoe]}
+{3000}{}{Io iiea!}
+{3010}{}{Iiea!}
+
+[engl]
+{100}{}{Seth}
+{1000}{}{I?aaaeaeiaiaua onoaiiaee}
+{1010}{}{First time with Sath.}
+{2000}{}{[He sighed, and in a clearly bored tone, told you the prices.] I will take the skin of an cave gecko for 60 dollars,, a rat pelt - 5 dollars. If there is leather, I can buy it in bulk of 10 pieces for 115 coins. I also buy chitin, 5 dollars for 5 shells, scorpian tails - 100 dollars. So what do you have? }
+{2010}{}{I got the skin of a cave gecko}
+{2020}{}{I have a rat skin. It stinks like hell, so you better take it. }
+{2030}{}{Here are 10 pieces of leather as ordered.}
+{2040}{}{Here are five chitin shells.}
+{2050}{}{Here is the scorpion's tail.}
+{2060}{}{Here is the tail of a small scorpion.}
+{2070}{}{I see, I have to go, thank you. [Leave]}
+{3000}{}{Io iiea!}
+{3010}{}{Iiea!}
+
